@@ -19,6 +19,15 @@ body {
     flex-direction: row;
   }
 }
+.container table {
+  border: 1px solid;
+}
+.container table td {
+  border: 1px solid;
+}
+.container #employeeList {
+  border: 1px solid;
+}
 .container form {
   flex: 1;
   display: flex;

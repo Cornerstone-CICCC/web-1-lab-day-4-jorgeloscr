@@ -18,6 +18,19 @@ body {
     flex-direction: row;
   }
 
+  table{
+    border: 1px solid;
+  }
+  table td{
+
+    border: 1px solid;
+    
+  }
+
+  #employeeList{
+    border: 1px solid;
+  }
+
   form {
     flex: 1;
     display: flex;
